@@ -11,4 +11,12 @@ Front-end development focuses on creating the visual and interactive aspects of 
 Back-end development focuses on the server-side of web applications, handling everything that users don’t see but is crucial for the website’s functionality. This includes working with databases, server logic, APIs, and ensuring the overall performance and security of the application.
 # NIC
 A network interface card, also known as NIC or network interface controller, is typically a circuit board installed on the computer to connect to the network. It works as an indispensable component for the network connection of computers. Currently, NIC cards designed as a built-in style are commonly found in most computers and some network servers. Besides, NIC cards like server NICs can also be inserted into expansion slots of devices.
-
+# Ethernet
+Ethernet is a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN). It was commercially introduced in 1980 and first standardized in 1983 as IEEE 802.3
+# Network
+A computer network is a collection of interconnected devices that share resources and information. These devices can include computers, servers, printers, and other hardware. Networks allow for the efficient exchange of data, enabling various applications such as email, file sharing, and internet browsing.
+# Operating system
+An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs.
+Time-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, peripherals, and other resources.
+# Cloud
+"The cloud" refers to servers that are accessed over the Internet, and the software and databases that run on those servers. Cloud servers are located in data centers all over the world. By using cloud computing, users and companies do not have to manage physical servers themselves or run software applications on their own machines.
