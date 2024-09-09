@@ -9,5 +9,6 @@ Storage is frequently used to describe devices that connect to a computer -- eit
 Front-end development focuses on creating the visual and interactive aspects of a website or web application that users interact with directly.
 # Back end
 Back-end development focuses on the server-side of web applications, handling everything that users don’t see but is crucial for the website’s functionality. This includes working with databases, server logic, APIs, and ensuring the overall performance and security of the application.
-
+# NIC
+A network interface card, also known as NIC or network interface controller, is typically a circuit board installed on the computer to connect to the network. It works as an indispensable component for the network connection of computers. Currently, NIC cards designed as a built-in style are commonly found in most computers and some network servers. Besides, NIC cards like server NICs can also be inserted into expansion slots of devices.
 
