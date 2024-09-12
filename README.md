@@ -79,3 +79,25 @@ Flutter is a UI toolkit made by Google for developing cross-platform apps. Flutt
 The term open source refers to something people can modify and share because its design is publicly accessible. The term originated in the context of software development to designate a specific approach to creating computer programs.
 # Hypervisor
 A hypervisor, also known as a virtual machine monitor (VMM), is a software layer that enables virtualization by creating and managing virtual machines (VMs). It acts as a platform for running multiple operating systems on a single physical machine by separating the operating systems and applications from the hardware.
+# Firewall
+A firewall is a network security solution that monitors and regulates traffic based on defined security rules and accepts, rejects or drops traffic accordingly.
+# Cryptography
+Cryptography is technique of securing information and communications through use of codes so that only those person for whom the information is intended can understand it and process it. Thus preventing unauthorized access to information.
+# Packet
+In networking, a packet is a small segment of a larger message. Data sent over computer networks*, such as the Internet, is divided into packets. These packets are then recombined by the computer or device that receives them.
+# TCP
+TCP (Transmission Control Protocol) is one of the main protocols of the TCP/IP suite. It lies between the Application and Network Layers which are used in providing reliable delivery services. Transmission Control Protocol (TCP) ensures reliable and efficient data transmission over the internet. TCP plays a crucial role in managing the flow of data between computers, guaranteeing that information is delivered accurately and in the correct sequence.
+# ISP
+An Internet service provider (ISP) is any company that provides Internet access to consumers and businesses. The Internet is provided through a variety of channels, including cable, DSL, fiber optics, dial-up, and wireless, with most ISPs offering all options. Most large telecommunication companies, such as mobile and cable companies, are ISPs.
+# OOP 
+Object-Oriented Programming (OOP) is a programming paradigm that uses "objects" to design applications and computer programs. It utilizes several techniques from previously established paradigms, including modularity, polymorphism, and encapsulation.
+# Python
+Python is a programming language that is interpreted, object-oriented, and considered to be high-level too. Python is one of the easiest yet most useful programming languages which is widely used in the software industry. People use Python for Competitive Programming, Web Development, and creating software. Due to its easiest syntax, it is recommended for beginners who are new to the software engineering field. 
+# Linked list
+A linked list is a linear data structure that consists of a series of nodes connected by pointers (in C or C++) or references (in Java, Python and JavaScript). Each node contains data and a pointer/reference to the next node in the list.
+# Hash table
+A Hash table is defined as a data structure used to insert, look up, and remove key-value pairs quickly. It operates on the hashing concept, where each key is translated by a hash function into a distinct index in an array.
+# Sorting
+A Sorting Algorithm is used to rearrange a given array or list of elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of elements in the respective data structure.
+# Searching
+Searching is the fundamental process of locating a specific element or item within a collection of data. This collection of data can take various forms, such as arrays, lists, trees, or other structured representations.
