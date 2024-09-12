@@ -60,4 +60,22 @@ API full form is an Application Programming Interface that is a collection of co
 In networking, a protocol is a set of rules for formatting and processing data. Network protocols are like a common language for computers. The computers within a network may use vastly different software and hardware; however, the use of protocols enables them to communicate with each other regardless.
 # DevOps
 DevOps is a software development approach emphasizing collaboration, automation, and continuous delivery to provide high-quality products to customers quickly and efficiently. 
-
+# Router
+A router is a device that connects two or more packet-switched networks or subnetworks. It serves two primary functions: managing traffic between these networks by forwarding data packets to their intended IP addresses, and allowing multiple devices to use the same Internet connection.
+# Hub
+Hub in networking plays a vital role in data transmission and broadcasting. A hub is a hardware device used at the physical layer to connect multiple devices in the network. Hubs are widely used to connect LANs. A hub has multiple ports. Unlike a switch, a hub cannot filter the data, i.e. it cannot identify the destination of the packet, So it broadcasts or sends the message to each port.
+# RISC
+The main idea behind this is to simplify hardware by using an instruction set composed of a few basic steps for loading, evaluating, and storing operations just like a load command will load data, a store command will store the data. 
+# CISC
+The main idea is that a single instruction will do all loading, evaluating, and storing operations just like a multiplication command will do stuff like loading data, evaluating, and storing it, hence it’s complex. 
+# Data mining
+Data mining is the process of searching and analyzing a large batch of raw data in order to identify patterns and extract useful information.
+Companies use data mining software to learn more about their customers. It can help them to develop more effective marketing strategies, increase sales, and decrease costs. Data mining relies on effective data collection, warehousing, and computer processing.
+# Git
+Git is a widely used distributed version control and source code management system. It effectively tracks changes to source code, enabling effortless branching, merging, and versioning.
+# Flutter
+Flutter is a UI toolkit made by Google for developing cross-platform apps. Flutter supports Android, iOS, Windows, Linux, and Mac. It’s a free and open-source toolkit to build visually appealing apps.
+# Open source
+The term open source refers to something people can modify and share because its design is publicly accessible. The term originated in the context of software development to designate a specific approach to creating computer programs.
+# Hypervisor
+A hypervisor, also known as a virtual machine monitor (VMM), is a software layer that enables virtualization by creating and managing virtual machines (VMs). It acts as a platform for running multiple operating systems on a single physical machine by separating the operating systems and applications from the hardware.
