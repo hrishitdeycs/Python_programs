@@ -30,3 +30,15 @@ A virtual machine also known as a Virtual Machine is defined as a computer resou
 A bare metal system is a computer that does not include any software. This means the user must install an operating system in order for the hardware to be functional.
 # Kernal
 A kernel is the foundational layer of an operating system (OS). It functions at a basic level, communicating with hardware and managing resources, such as RAM and the CPU.
+# VPN
+A virtual private network (VPN) is a technology that creates a safe and encrypted connection over a less secure network, such as the Internet. A Virtual Private Network is a way to extend a private network using a public network such as the Internet. The name only suggests that it is a “Virtual Private Network”, i.e. user can be part of a local network sitting at a remote location. It makes use of tuneling protocols to establish a secure connection.
+# DNS
+The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.
+# IP
+All the computers of the world on the Internet network communicate with each other with underground or underwater cables or wirelessly. If I want to download a file from the internet or load a web page or literally do anything related to the internet, my computer must have an address so that other computers can find and locate mine in order to deliver that particular file or webpage that I am requesting. In technical terms, that address is called IP Address or Internet Protocol Address.
+# OS
+An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs.
+# Architecture 
+Computer architecture is the arrangement of the components that comprise a computer system and the engine at the core of the processes that drive its functioning. It specifies the machine interface for which programming languages and associated processors are designed.ture
+# DSA
+Data Structures and Algorithms (DSA) refer to the study of methods for organizing and storing data and the design of procedures (algorithms) for solving problems, which operate on these data structures. DSA is one of the most important skills that every computer science student must have. It is often seen that people with good knowledge of these technologies are better programmers than others and thus, crack the interviews of almost every tech giant, including companies like Google, Microsoft, Amazon, and Facebook (now Meta).
