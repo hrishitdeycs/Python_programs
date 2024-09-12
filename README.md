@@ -20,3 +20,13 @@ An operating system (OS) is system software that manages computer hardware and s
 Time-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, peripherals, and other resources.
 # Cloud
 "The cloud" refers to servers that are accessed over the Internet, and the software and databases that run on those servers. Cloud servers are located in data centers all over the world. By using cloud computing, users and companies do not have to manage physical servers themselves or run software applications on their own machines.
+# OSI
+OSI model is a 7-layer framework for network communication developed by ISO in 1984. Learn the functions, features, and examples of each layer, and how data flows through the OSI model from sender to receiver. 
+# Application
+App is short for "application," which is the same thing as a software program. While an app may refer to a program for any hardware platform, it is most often used to describe programs for mobile devices, such as smartphones and tablets.
+# Virtual Machine
+A virtual machine also known as a Virtual Machine is defined as a computer resource that functions like a physical computer and makes use of software resources only instead of using any physical computer for functioning, running programs, and deploying the apps. While using Virtual Machine the experience of end-user is the same as that of when using a physical device.
+# Bare metal
+A bare metal system is a computer that does not include any software. This means the user must install an operating system in order for the hardware to be functional.
+# Kernal
+A kernel is the foundational layer of an operating system (OS). It functions at a basic level, communicating with hardware and managing resources, such as RAM and the CPU.
