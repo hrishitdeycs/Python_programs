@@ -42,3 +42,22 @@ An operating system (OS) is system software that manages computer hardware and s
 Computer architecture is the arrangement of the components that comprise a computer system and the engine at the core of the processes that drive its functioning. It specifies the machine interface for which programming languages and associated processors are designed.ture
 # DSA
 Data Structures and Algorithms (DSA) refer to the study of methods for organizing and storing data and the design of procedures (algorithms) for solving problems, which operate on these data structures. DSA is one of the most important skills that every computer science student must have. It is often seen that people with good knowledge of these technologies are better programmers than others and thus, crack the interviews of almost every tech giant, including companies like Google, Microsoft, Amazon, and Facebook (now Meta).
+# DBMS
+A database management system (DBMS) is a software system for creating and managing databases. A DBMS enables end users to create, protect, read, update and delete data in a database. It also manages security, data integrity and concurrency for databases.
+# Algorithm
+A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
+# Compiler
+A compiler typically works through several stages to transform source code into executable machine code. These stages include lexical analysis, syntax analysis, semantic analysis, optimization, and code generation. During lexical analysis, the compiler breaks down the code into tokens, such as keywords and operators.
+# Interpreter
+An interpreter is a program that directly executes the instructions in a high-level language, without converting it into machine code. In programming, we can execute a program in two ways. Firstly, through compilation and secondly, through an interpreter. The common way is to use a compiler.
+# Data structure
+A data structure is a way of organizing and storing data in a computer so that it can be accessed and used efficiently. It refers to the logical or mathematical representation of data, as well as the implementation in a computer program.
+# Semiconductors
+A Semiconductor is a kind of material that performs conductivity between conductors and insulators and has a conductivity value that lies between the conductor and an insulator.
+# API
+API full form is an Application Programming Interface that is a collection of communication protocols and subroutines used by various programs to communicate between them. A programmer can make use of various API tools to make their program easier and simpler. Also, an API facilitates programmers with an efficient way to develop their software programs. Thus api meaning is when an API helps two programs or applications to communicate with each other by providing them with the necessary tools and functions. It takes the request from the user and sends it to the service provider and then again sends the result generated from the service provider to the desired user.
+# Protocol
+In networking, a protocol is a set of rules for formatting and processing data. Network protocols are like a common language for computers. The computers within a network may use vastly different software and hardware; however, the use of protocols enables them to communicate with each other regardless.
+# DevOps
+DevOps is a software development approach emphasizing collaboration, automation, and continuous delivery to provide high-quality products to customers quickly and efficiently. 
+
