@@ -33,5 +33,6 @@ t1= (1, 2, 5, 7, 9, 2, 4, 6, 8, 10, 11, 13, 15)
 print("maximum value in t1 is ",max(t1))
 print("minimum value in t1 is ",min(t1))
 ```
-![Uploading Screenshot (15).png…]()
+![Screenshot (15)](https://github.com/user-attachments/assets/e279a9d4-6f2a-4db7-924f-3f081cd39f08)
+
 
