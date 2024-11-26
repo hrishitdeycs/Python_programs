@@ -1,4 +1,6 @@
-# WAP to create a list of only the even integers appearing in the input list(may have elements of other types) using for loop and list comprehension.
+# Write a program to create a list of the cubes of only the even integers appearing in the input list(may have elements of other types) using the following:
+# a)'for' loop 
+# b)list comprehension.
 ```bash
 def cubes(): 
     newlist= []
