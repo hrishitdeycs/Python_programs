@@ -1,4 +1,4 @@
-# WAP to create a pyramid of the character '*' and reverse pyramid
+# Write a program to create a pyramid of the character '*' and a reverse pyramid
 ```bash
 n = int(input("enter the no of rows "))
 for i in range(n):
