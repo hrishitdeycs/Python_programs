@@ -1,4 +1,4 @@
-# WAP that accepts a charcter and performs the following:
+# Write a program that accepts a character and performs the following:
 ## a)print whether the character is a letter or numeric digit or a special character
 ## b)if the character is a letter ,print whether the letter is uppercase or lowercase 
 ## c)if the character is a numeric digit ,print its name in text
