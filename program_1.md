@@ -1,4 +1,4 @@
-# WAP to find the roots of a quadratic equation
+# Write a program to find the roots of a quadratic equation
 ```bash
 a,b,c = eval(input("enter value "))
 d = b ** 2 - 4 * a * c
