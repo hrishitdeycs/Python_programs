@@ -1,4 +1,4 @@
-# Write a function that accepts two string and returns the indices of all the occurances of the second string in the first string as a list . if the second string is not present in the first string then it should return -1
+# Write a function that accepts two strings and returns the indices of all the occurances of the second string in the first string as a list . if the second string is not present in the first string then it should return -1.
 ```bash
 def occurances(a,b):
     newlist =[]
