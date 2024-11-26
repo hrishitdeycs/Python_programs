@@ -1,4 +1,4 @@
-# WAP to swap the first n characters of two strings
+# Write a program to swap the first n characters of two strings
 ```bash
 str1 = input("enter first string: ")
 str2 = input("enter second string: ")
