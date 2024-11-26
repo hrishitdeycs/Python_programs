@@ -2,14 +2,22 @@
 # a)'for' loop 
 # b)list comprehension.
 ```bash
-def cubes(): 
-    newlist= []
-    number = [1,2,3,4,5,6,"seven"]
-    for i in number:
-        if type(i)== int:
-            if i % 2 == 0:
-                newlist.append(i**3)
-    print(newlist)
-cubes()
+test = []
+n = int(input('enter the length of list \n'))
+for j in range(0, n):
+    vals = input('enter the values: ')
+    test.append(vals)
+cubes = []
+for i in test:
+    if str(i).isdigit():
+        if int(i) % 2 == 0:
+            i = int(int(i) ** 3)
+            cubes.append(i)
+print('The cubed values of all the even digits in the given list using for loop are: ')
+print(cubes)
+list_comp = [int(cube)**3 for cube in test if cube.isdigit() and int(cube) % 2 == 0]
+print('The cubed values of all the even digits in the given list using list comprehension are: ')
+print(list_comp)
 ```
-![Screenshot (10)](https://github.com/user-attachments/assets/b1ec9a0d-2aea-434c-ba16-6cbecdc96b99)
+![Screenshot (33)](https://github.com/user-attachments/assets/d5aaae2b-4f23-416f-b6c0-772be61b3e39)
+
