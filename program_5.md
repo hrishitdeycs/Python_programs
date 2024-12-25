@@ -20,10 +20,18 @@ print(string.replace("h","t"))
 
 ## c)Remove the first occurance of a character from a string
 ```bash
-string = "hello welcome to python"
-print(string[1:len(string)])
+def remove_first_occurrence(s, char):
+    index = s.find(char)
+    if index != -1:
+        return s[:index] + s[index+1:]
+    return s
+string = input("Enter the string: ")
+char_to_remove =input("Enter the character to remove: ")
+result = remove_first_occurrence(string, char_to_remove)
+print(result)  
 ```
-![Screenshot (17)](https://github.com/user-attachments/assets/8995a27c-d169-43b2-93d9-a46d9717f4f0)
+![Screenshot (51)](https://github.com/user-attachments/assets/85613046-162a-47d2-a881-b8844f517e76)
+
 
 ## d)Remove all occurances of a character from a string
 ```bash
