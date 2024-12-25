@@ -35,7 +35,12 @@ print(result)
 
 ## d)Remove all occurances of a character from a string
 ```bash
-string = "hello welcome to python"
-print(string[:0])
+def remove_char(string, char):
+    return string.replace(char, '')
+input_string = input("Enter a string: ")
+char_to_remove = input("Enter a character to remove: ")
+result = remove_char(input_string, char_to_remove)
+print(result) 
 ```
-![Screenshot (18)](https://github.com/user-attachments/assets/7c78ee81-10ea-4503-b23a-4505b6c1860e)
+
+![Screenshot (52)](https://github.com/user-attachments/assets/262a3804-f15d-48d5-ab1c-23e300d32c4a)
