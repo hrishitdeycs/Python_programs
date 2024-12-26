@@ -5,8 +5,8 @@ def occurances(a,b):
     if b not in a:
        print(-1)
     else:
-       i= 0
-       while i< len(a):
+        i= 0
+        while i< len(a):
             c=a.find(b,i)
             if c== -1:
               break
