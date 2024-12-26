@@ -13,8 +13,8 @@ def occurances(a,b):
             i= c+ len(b)
             newlist.append(c)
         print(newlist)
-a= input("enter first string ;")
-b= input("enter second string ;")
+a= input("enter first string :")
+b= input("enter second string :")
 occurances(a,b)
 ```
 ![Screenshot (20)](https://github.com/user-attachments/assets/fe2f739c-8695-4fe0-a1fd-5e71e3efb18e)
