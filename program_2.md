@@ -1,18 +1,9 @@
 # Write a program to accpet a number 'n' to perform  the following
 
 ## a)Check if 'n' is prime 
-```bash
-n = eval(input("enter value "))
-if n>1:
-  for i in range(2,n):
-      if n % i == 0:
-        print(n,"not a prime number ")
-        break
-  else:
-      print(n,"prime number")
-else:
-    print(n,"not a prime number ")
-```
+
+
+
 ![Screenshot (7)](https://github.com/user-attachments/assets/7d9c2f50-5979-4d55-b6f9-e87f976732b9)
 
 ![Screenshot (8)](https://github.com/user-attachments/assets/1de1be76-f162-4d89-89fe-18549ebc6ec2)
